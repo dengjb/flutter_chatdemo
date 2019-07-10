@@ -1,1 +1,2 @@
 # flutter_chatdemo
+学习flutter过程中实现的简单demo,本demo大部分实现源码来自图书：flutter技术入门与实战
