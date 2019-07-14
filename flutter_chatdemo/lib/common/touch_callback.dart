@@ -6,7 +6,7 @@ class TouchCallback extends StatefulWidget{
   final bool isfeed;
   final Color color;
 
-  TouchCallback({Key key,@required this.child,@required this.onPressed,this.isfeed:true,this.color:const Color(0xffd8d8d8)}):super(key:key);
+ TouchCallback({Key key,@required this.child,@required this.onPressed,this.isfeed:true,this.color:const Color(0xffd8d8d8)}):super(key:key);
 
   @override
   State<StatefulWidget> createState() {
